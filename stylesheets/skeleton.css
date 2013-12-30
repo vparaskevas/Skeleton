@@ -127,7 +127,7 @@
 *  Adapted from http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/responsive-css-grid-systems-345
 *  Added .alpha.omega combo classes. Hope to see that fixed in later versions of Skeleton: https://github.com/dhgamache/Skeleton/issues/68
 */
-    @media only screen and (min-width: 1200px)  {
+    @media only screen and (min-width: 1200px) and (max-width: 1343px)  {
  
 	    .container                      { width: 1200px;}
 	    .container .column,
