@@ -27,7 +27,7 @@
 	@media only screen and (min-width: 1344px) {}
 	
 	/* Large screens */
-	@media only screen and (min-width: 1200px) {}
+	@media only screen and (min-width: 1200px) and (max-width: 1343px) {}
 
 	/* Smaller than standard 960 (devices and browsers) */
 	@media only screen and (max-width: 959px) {}
